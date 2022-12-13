@@ -1239,13 +1239,11 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     DaxUI \
     IFAAService \
-    WfdService \
     daxService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     tcmclient \
-    WfdCommon \
     qcnvitems \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
